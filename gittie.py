@@ -1,5 +1,6 @@
 def introduce():
     print("Hello, I'm Toth Mate!")
+    print("Hello, I'm Peter!")
 
 
 def add(a, b):
@@ -9,6 +10,7 @@ def add(a, b):
     
 def joke():
     print("this should be a big joke!")
+
 
 def go():
     return "going"
