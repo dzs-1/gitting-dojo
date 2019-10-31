@@ -2,4 +2,4 @@ def introduce():
     print("Hello, I'm Gittie!")
 
 def joke():
-    print("this is a joke!")
+    print("this should be a joke!")
