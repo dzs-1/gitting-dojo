@@ -11,4 +11,4 @@ def joke():
     print("this should be a big joke!")
 
 def go():
-    return "go"
+    return "going"
